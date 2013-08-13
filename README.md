@@ -1,4 +1,4 @@
 Elon Musk's hyperloop plans, on GitHub.
 
-Available at [plans.HyperloopCommunity.com](http://plans.HyperloopCommunity.com/).
+Available at [HyperloopCommunity.com/plans/](http://plans.HyperloopCommunity.com/plans).
 
